@@ -24,6 +24,9 @@ TODO: 最初に地図どーん載っけたい
 ## 和食
 - [おうち](https://tabelog.com/tokyo/A1301/A130101/13106591/)
   - 三味定食(1000yen)
+- [日本料理 銀座 大野](https://tabelog.com/tokyo/A1301/A130101/13030803/?cid=google_yoyaku&from_google=1)(水・木のみらしい)
+  - ばくだん丼(1000yen)
+  - お刺身と焼き魚の定食(1000yen)
 
 ## カレー
 - [HARE GINZA](http://www.hare-ginza.net/)
