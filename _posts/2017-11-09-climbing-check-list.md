@@ -2,11 +2,14 @@
 layout: post
 title: 登山者向け荷物チェックリスト
 date: 2017-11-09 02:07:43 +0900
-categories: climbing
+categories:
+- climbing
+tags:
+- 登山
 ---
 
 ## 事前準備
-- 移動中の暇つぶし
+- 移動中の暇つぶし :tada:
 
 電車で移動する場合はだいたい1時間~2時間かかる。
 

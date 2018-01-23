@@ -2,11 +2,13 @@
 layout: post
 title: 銀座ランチリスト
 date: 2017-11-17 01:04:43 +0900
-categories: gourmet
+categories:
+- gourmet
 ---
 
-# 地図
-TODO: 最初に地図どーん載っけたい
+銀座ランチリストです
+
+<!-- more -->
 
 # 見方
 ```
