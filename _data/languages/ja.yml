@@ -1,25 +1,25 @@
 title:
-  archive: アーカイブ
-  category: カテゴリ
-  tag: タグ
+  archive: archive
+  category: category
+  tag: tag
 
 author: Author
 
 menu:
-  home: ホーム
-  archives: アーカイブ
-  categories: カテゴリ
-  tags: タグ
+  home: Home
+  archives: Archives
+  categories: Categories
+  tags: Tags
   about: About
-  search: 検索
+  search: Search
 
 sidebar:
-  overview: 概要
-  toc: 見出し
+  overview: overview
+  toc: TOC
 
 post:
   sticky: 固定
-  posted: 投稿日
+  posted: Posted on
   modified: Updated at
   in: In
   read_more: 続きを読む
