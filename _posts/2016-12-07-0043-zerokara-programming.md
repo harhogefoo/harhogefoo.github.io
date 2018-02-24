@@ -118,4 +118,4 @@ Rails5チュートリアルは，中々重いのでわからない箇所は飛�
 
 アイキャッチ画像，レムにしておけばよかったかなぁ
 
-[![](http://harhogefoo.xyz/wp-content/uploads/2016/12/0622eb441693b247a34b05732a812ac5-300x198.png)](http://harhogefoo.xyz/wp-content/uploads/2016/12/0622eb441693b247a34b05732a812ac5.png)
+[![](/assets/images/2016/12/0622eb441693b247a34b05732a812ac5-300x198.png)](/assets/images/2016/12/0622eb441693b247a34b05732a812ac5.png)

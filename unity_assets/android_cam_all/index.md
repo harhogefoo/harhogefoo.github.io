@@ -3,7 +3,7 @@ title: AndroidCamAll
 layout: page
 ---
 
-![AndroidCamAll_large](http://harhogefoo.xyz/wp-content/uploads/2016/07/AndroidCamAll_large.png)
+![AndroidCamAll_large](/assets/images/2016/07/AndroidCamAll_large.png)
 
 UnityからAndroidのカメラまたはギャラリーからの画像取得関係の良いアセットがなかった（あったとしてもカメラのみ，ギャラリーのみ）ので開発して申請してみた．
 
@@ -43,4 +43,4 @@ from:
 
 ※If you could not make sense, try running the Demo in the Editor and then on device.
 
-### ScreenShot![AndroidCamAll1](http://harhogefoo.xyz/wp-content/uploads/2016/07/12811-169x300.jpg) ![AndroidCamAll2](http://harhogefoo.xyz/wp-content/uploads/2016/07/12812-169x300.jpg) ![AndroidCamAll3](http://harhogefoo.xyz/wp-content/uploads/2016/07/12809-169x300.jpg)
+### ScreenShot![AndroidCamAll1](/assets/images/2016/07/12811-169x300.jpg) ![AndroidCamAll2](/assets/images/2016/07/12812-169x300.jpg) ![AndroidCamAll3](/assets/images/2016/07/12809-169x300.jpg)
