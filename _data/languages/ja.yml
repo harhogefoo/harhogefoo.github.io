@@ -12,6 +12,8 @@ menu:
   tags: Tags
   about: About
   search: Search
+  unity: Unity
+  dtm: DTM
 
 sidebar:
   overview: overview

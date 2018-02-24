@@ -94,7 +94,7 @@ rss:
 authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: true
+copyright: false
 
 # ---------------------------------------------------------------
 # SEO Settings
@@ -119,13 +119,14 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  categories: /categories/
   about: /about/
+  unity: /unity_assets/android_cam_all/
+  dtm: /dtm/
+  categories: /categories/
   archives: /archives/
   tags: /tags/
   # sitemap: /sitemap.xml
   # commonweal: /404.html
-
 
 # Enable/Disable menu icons.
 # Icon Mapping:
@@ -137,15 +138,14 @@ menu_icons:
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
+  unity: android
+  dtm: music
   categories: th
   schedule: calendar
   tags: tags
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
-
-
-
 
 # ---------------------------------------------------------------
 # Scheme Settings
