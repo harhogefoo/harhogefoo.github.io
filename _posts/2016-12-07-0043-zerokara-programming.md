@@ -18,7 +18,7 @@ http://www.adventar.org/calendars/1536
 
 > しゅう…ろん…うっ
 >
-> — Panaaaarky (@harhogefoo) [2016年10月26日](https://twitter.com/harhogefoo/status/791211876201869312)
+> Panaaaarky (@harhogefoo) [2016年10月26日](https://twitter.com/harhogefoo/status/791211876201869312)
 
 最近テレビとテレビ台を買いました．
 テレビ台の組み立てで手回しドライバーでは力が足りず
@@ -26,7 +26,7 @@ http://www.adventar.org/calendars/1536
 
 > 年末に向けた家の環境構築完了…!
 >
-> — Panaaaarky (@harhogefoo) [2016年12月6日](https://twitter.com/harhogefoo/status/806147907451633664)
+> Panaaaarky (@harhogefoo) [2016年12月6日](https://twitter.com/harhogefoo/status/806147907451633664)
 
 （あ，今 [ステラのまほう #10](http://magicofstella.com/) が始まった）
 
@@ -35,7 +35,7 @@ http://www.adventar.org/calendars/1536
 プログラミング未経験者がコードを書けるようになるまでに教えたことを記録しておく
 
 背景
---
+
 
 B3，M1はもうすぐ就活．
 そんな友人からプログラミングをするお仕事に興味があると相談を受けたから
@@ -51,7 +51,7 @@ B3，M1はもうすぐ就活．
 自学自習の方法を身に着けてもらうため
 下記の流れ学習することを勧めた．
 
-### __<span>ドットインストール</span>
+### ドットインストール
 
 http://dotinstall.com/
 
@@ -89,19 +89,19 @@ http://harhogefoo.xyz/calc.html
 Webエンジニア指向ということでRubyのススメ
 （ゲーム開発エンジニア指向ならここでUnityを勧たいと思う）
 
-### __<span>競技プログラミング</span>
+### 競技プログラミング
 
 この辺で一通りの知識を身につけられているはずなので
 競技プログラミングで文法を身体に染み込ませる．
 また，コード書くことの楽しさを知ってもらう．
 AtCoder, yukicoder, paiza, Aizu online judgeで検索
 
-### __<span>Git</span>
+### Git
 
 Githubアカウントを取得してGitでソースコードを管理する方法を学ぶ．
 エンジニア必須スキル．
 
-### __<span>Ruby On Rails</span>
+### Ruby On Rails
 
 ここでRuby On Rails 5のチュートリアル． <- いまここ
 学習する流れは

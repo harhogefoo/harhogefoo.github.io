@@ -32,7 +32,6 @@ http://www.adventar.org/calendars/1536
 はい本題
 
 背景
---
 
 ### macユーザが増えた
 毎年I科恒例の演習，鯖プロではJSP/Servletを使ったWebアプリの企画，開発，発表が行われている．
@@ -54,8 +53,7 @@ Javaで開発するならIntellJがおすすめです．おすすめです．
 学生アカウントを作成すれば1年間Pro版は無料．(2016/12/14 現在)
 リンク: https://www.jetbrains.com/student/
 
-JSP/ServletでHello, Worldを出力するまで
--------------------------------
+# JSP/ServletでHello, Worldを出力するまで
 下記を参考に．
 http://librastudio.hatenablog.com/entry/2013/08/23/014706
 
@@ -73,8 +71,8 @@ Tomcatでビルドをする設定をして...略 (上記のリンク参照）
 
 Hello, Worldがブラウザ上に出力されればOK．
 
-warファイルのデプロイ
-------------
+# warファイルのデプロイ
+
 特に躓くところがここ
 まず，IntelliJで開発したプロジェクトのwarファイルの場所を調べる．
 上記の設定ができていれば，ファイル以下に生成されている．

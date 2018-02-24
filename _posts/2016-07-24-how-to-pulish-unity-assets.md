@@ -1,5 +1,5 @@
 ---
-title: [Unity]Assetの公開から申請まで
+title: Unity Assetの公開から申請まで
 date: 2016-07-24 23:45:08
 categories:
 - Engineering
