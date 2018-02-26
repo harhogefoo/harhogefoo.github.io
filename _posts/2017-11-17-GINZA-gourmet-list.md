@@ -58,8 +58,10 @@ categories:
 
 ### そば
 - [そば所 よしだ](https://tabelog.com/tokyo/A1301/A130101/13192026/)
-  - そば + 日替わり丼(1000yen)
-
+  - そば + 日替わり丼(1,000yen)
+- [泰明庵](https://tabelog.com/tokyo/A1301/A130101/13002558/)
+  - そば + 親子丼セット(1,050yen)
+  
 ### うどん
 - [銀座 佐藤養助](https://www.sato-yoske.co.jp/shop/ginza/)
   - レッドカレーつけうどん(1300yen)
