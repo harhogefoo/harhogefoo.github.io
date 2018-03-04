@@ -24,9 +24,9 @@ post:
   posted: Posted on
   modified: Updated at
   in: In
-  read_more: 続きを読む
-  untitled: 無題
-  toc_empty: 見出しがありません
+  read_more: Read more
+  untitled: Untitled
+  toc_empty: This post does not have a Table of Contents
   visitors: Visitors
   wordcount: Words count in article
   min2read: Reading time
